@@ -6,8 +6,5 @@
         xmlns:local="clr-namespace:Kalendar"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Label Content="zhopa" HorizontalAlignment="Left" Margin="186,138,0,0" VerticalAlignment="Top" Height="100" Width="437"/>
-
-    </Grid>
+    <Grid/>
 </Window>
